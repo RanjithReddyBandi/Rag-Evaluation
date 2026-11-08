@@ -312,7 +312,7 @@ first run.
 Run the dashboard from the workspace root:
 
 ```powershell
-.\.venv-ragas\Scripts\python.exe -m streamlit run ".\Wknd Batch\HRHelpdesk_RAGAgent\ragas_validation\dashboard.py"
+.\.venv-ragas\Scripts\python.exe -m streamlit run ".\ragas_validation\dashboard.py"
 ```
 
 In the dashboard:
@@ -331,7 +331,7 @@ In the dashboard:
 To run the curated dataset without opening Streamlit:
 
 ```powershell
-.\.venv-ragas\Scripts\python.exe ".\Wknd Batch\HRHelpdesk_RAGAgent\ragas_validation\validate_ragas.py"
+.\.venv-ragas\Scripts\python.exe ".\ragas_validation\validate_ragas.py"
 ```
 
 Both generation and evaluation make Groq API calls. Evaluation makes calls for
