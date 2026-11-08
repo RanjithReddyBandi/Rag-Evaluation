@@ -20,7 +20,7 @@ pipeline and evaluates it with Ragas. It contains:
 Run all commands from this directory:
 
 ```powershell
-Set-Location "C:\Ranjith\FDE\IshaFDETraining\learnai\Python\RAG_Programs\Rag-Evaluation"
+Set-Location "<file path e.g.: c:\folders>\Rag-Evaluation"
 ```
 
 An existing virtual environment is included as `.venv-ragas`. You can activate
