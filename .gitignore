@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+.venv-ragas/
+venv/
+env/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Generated evaluation data
+ragas_validation/results/
+ragas_validation/synthetic_datasets/
+
+# Persistent databases and caches
+ChunksChroma/chroma_db/
+.chroma/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs and local coverage
+*.log
+.coverage
+coverage.xml
+htmlcov/

@@ -1,0 +1,12 @@
+ragas==0.4.3
+datasets==5.1.0
+langchain==0.3.30
+langchain-community==0.3.27
+langchain-core==0.3.86
+langchain-openai==0.3.35
+openai==1.109.1
+sentence-transformers==6.0.1
+chromadb==1.5.9
+streamlit==1.63.0
+pandas==3.0.5
+python-dotenv==1.2.3

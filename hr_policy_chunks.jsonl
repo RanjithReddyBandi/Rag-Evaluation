@@ -1,0 +1,50 @@
+[
+  {
+    "chunk_id": "chunk_01",
+    "category": "employee_leave_policy",
+    "subcategory": "annual_leave",
+    "text": "All full-time employees are entitled to 18 days of annual leave per calendar year. Annual leave accrues monthly and unused leave, up to a maximum of 10 days, may be carried forward to the next calendar year with manager approval."
+  },
+  {
+    "chunk_id": "chunk_02",
+    "category": "employee_leave_policy",
+    "subcategory": "sick_leave",
+    "text": "Employees are entitled to 12 days of paid sick leave per year. A medical certificate is required for sick leave exceeding two consecutive working days. Unused sick leave does not carry forward to the next year."
+  },
+  {
+    "chunk_id": "chunk_03",
+    "category": "employee_leave_policy",
+    "subcategory": "maternity_leave",
+    "text": "Female employees are entitled to 26 weeks of paid maternity leave for the first two children, and 12 weeks for subsequent children. Maternity leave may begin up to 8 weeks before the expected date of delivery."
+  },
+  {
+    "chunk_id": "chunk_04",
+    "category": "employee_leave_policy",
+    "subcategory": "paternity_leave",
+    "text": "Male employees are entitled to 2 weeks of paid paternity leave, to be availed within 3 months of the child's birth or adoption date, subject to manager approval."
+  },
+  {
+    "chunk_id": "chunk_05",
+    "category": "employee_leave_policy",
+    "subcategory": "bereavement_leave",
+    "text": "Employees may take up to 5 days of paid bereavement leave in the event of the death of an immediate family member, including spouse, child, parent, or sibling."
+  },
+  {
+    "chunk_id": "chunk_06",
+    "category": "expense_reimbursement_policy",
+    "subcategory": "travel_expenses",
+    "text": "Employees travelling for official business may claim reimbursement for economy-class airfare, hotel accommodation up to the company-approved daily limit, and reasonable local transport, with original receipts submitted within 15 days of travel completion."
+  },
+  {
+    "chunk_id": "chunk_07",
+    "category": "expense_reimbursement_policy",
+    "subcategory": "remote_work_allowance",
+    "text": "Employees approved for remote work are eligible for a one-time home-office setup allowance and a monthly internet reimbursement, subject to submission of valid bills through the expense portal."
+  },
+  {
+    "chunk_id": "chunk_08",
+    "category": "code_of_conduct",
+    "subcategory": "workplace_harassment",
+    "text": "The company maintains a zero-tolerance policy toward workplace harassment of any kind. Employees who witness or experience harassment must report it to HR or through the confidential ethics hotline within 30 days of the incident."
+  }
+]

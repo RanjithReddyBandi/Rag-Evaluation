@@ -1,0 +1,86 @@
+[
+  {
+    "id": "leave-eligibility",
+    "category": "employee_leave_policy",
+    "sub_category": "eligibility",
+    "question": "Which employees are eligible for the company leave benefits?",
+    "ground_truth": "All employees on the permanent payroll are eligible from their date of joining, unless otherwise specified. Contract, probationary, or intern eligibility is governed separately by their employment terms."
+  },
+  {
+    "id": "leave-entitlements",
+    "category": "employee_leave_policy",
+    "sub_category": "leave_types_and_entitlement",
+    "question": "How many casual, sick, and earned leave days are employees entitled to each year?",
+    "ground_truth": "Employees receive 12 days of Casual Leave, 10 days of Sick Leave, and 15 days of Earned Leave per year."
+  },
+  {
+    "id": "sick-certificate",
+    "category": "employee_leave_policy",
+    "sub_category": "leave_types_and_entitlement",
+    "question": "When is a medical certificate required for sick leave?",
+    "ground_truth": "A medical certificate is required for Sick Leave beyond two consecutive working days."
+  },
+  {
+    "id": "leave-carry-forward",
+    "category": "employee_leave_policy",
+    "sub_category": "carry_forward_and_encashment",
+    "question": "Which leave type can be carried forward, and what is the limit?",
+    "ground_truth": "Unused Earned Leave can be carried forward up to 30 days into the next calendar year. Casual Leave and Sick Leave do not carry forward."
+  },
+  {
+    "id": "maternity-entitlement",
+    "category": "maternity_policy",
+    "sub_category": "maternity_leave_entitlement",
+    "question": "What maternity leave is available for the first two children?",
+    "ground_truth": "Eligible employees are entitled to up to 26 weeks of paid maternity leave for each of their first two children."
+  },
+  {
+    "id": "maternity-third-child",
+    "category": "maternity_policy",
+    "sub_category": "maternity_leave_entitlement",
+    "question": "What maternity leave applies to the third child onward?",
+    "ground_truth": "Eligible employees receive up to 12 weeks of paid maternity leave for the third child onward, subject to applicable statutory requirements."
+  },
+  {
+    "id": "returning-flexible-work",
+    "category": "maternity_policy",
+    "sub_category": "returning_to_work",
+    "question": "Can employees request flexible work when returning from maternity leave?",
+    "ground_truth": "Employees may request flexible or hybrid work arrangements during a transition period after maternity leave, subject to role requirements and manager approval."
+  },
+  {
+    "id": "remote-work-approval",
+    "category": "remote_work_policy",
+    "sub_category": "eligibility_and_approval",
+    "question": "How is a remote work arrangement approved?",
+    "ground_truth": "Remote work must be approved by the employee's reporting manager and recorded with HR, based on role requirements, business needs, and satisfactory prior performance."
+  },
+  {
+    "id": "remote-core-hours",
+    "category": "remote_work_policy",
+    "sub_category": "working_hours_and_availability",
+    "question": "What are the expected core business hours for remote employees?",
+    "ground_truth": "Remote employees must generally be available during team core business hours from 10:00 AM to 4:00 PM local time."
+  },
+  {
+    "id": "remote-data-security",
+    "category": "remote_work_policy",
+    "sub_category": "data_security_and_confidentiality",
+    "question": "How should employees securely access company data while working remotely?",
+    "ground_truth": "Employees must access company data only through approved devices, VPN, and authentication methods provided by IT, and must not share confidential information over personal accounts or unsecured networks."
+  },
+  {
+    "id": "insurance-dependent-coverage",
+    "category": "insurance_benefits_policy",
+    "sub_category": "summary_of_benefits",
+    "question": "Which dependents are covered under the Group Mediclaim insurance?",
+    "ground_truth": "The Group Mediclaim covers the employee, spouse, up to two dependent children, and dependent parents, subject to policy tier."
+  },
+  {
+    "id": "insurance-cashless-claims",
+    "category": "insurance_benefits_policy",
+    "sub_category": "claims_process",
+    "question": "How can employees use insurance coverage at network hospitals?",
+    "ground_truth": "Employees should present their insurance ID card at admission to request cashless treatment at a network hospital. Reimbursement claims require original bills and discharge summaries."
+  }
+]
